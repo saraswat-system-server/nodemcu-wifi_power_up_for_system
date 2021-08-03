@@ -1,0 +1,18 @@
+first of all you m ust have to download blynk ( legacy ) app your phone 
+then sign up with your e-mail id
+select nodemcu / ESP8266 board and select wifi as configuration 
+then add the button ( according to use how much port pin D1, D2, D3, D4, D5, D6, D7, D8 )
+then select the pin opion app and select virtual opion for pin 
+and select the push or switch option as push buttion or on-off button
+and there will be no change in 0 and 1 
+in pin selection option select the pin for work 
+then save it.
+
+after this get the auth token from the app on your e-mail id
+insert the auth token in the given code      { File NAME- working-system-code.ino  }
+
+in this option      char auth[] = "XXXX-XXXX-XXXX-XXXX-XXXX-XXXX-XXXX-XXXX-XXXX-";
+
+and your phone and nodemcu ESP8266 will connected to same device with internet.
+
+Enjoy       : )     :)             
