@@ -1,0 +1,22 @@
+install arduine software and install library and packages of ESP8266 or ESP only ( both of them )
+open code file ( .ino ) and select board ESP8266 ( NODE MCU 1.0 ESP-12E MODULE ) OR ( NODE MCU 0.9 ESP-12 MODULE) OR ( GENERIC ESP 8266 MODULE ) FROM TOOL OPTION
+inset the auth code , hotspot username and password  in this option
+
+
+char auth[] = "XXXX-XXXX-XXXX-XXXX-XXXX-XXXX-XXXX-XXXX-XXXX-XXXX";
+char ssid[] = "hotspot-user-name";
+char pass[] = "hotspot-password";
+
+then goto sketch option and click on upload option 
+
+after completed upload   it shows     upload done.
+
+press rst button in node mcu device.
+
+when device connected to online it glow blue light
+connect to blynk app on your phone 
+
+to get the supply on port 
+
+
+enjoy :)
