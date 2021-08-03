@@ -1,3 +1,8 @@
+Welcome to saraswat-system-server 
+
+to configure ESP8266 module
+
+
 install arduine software and install library and packages of ESP8266 or ESP only ( both of them )
 open code file ( .ino ) and select board ESP8266 ( NODE MCU 1.0 ESP-12E MODULE ) OR ( NODE MCU 0.9 ESP-12 MODULE) OR ( GENERIC ESP 8266 MODULE ) FROM TOOL OPTION
 inset the auth code , hotspot username and password  in this option
@@ -20,3 +25,4 @@ to get the supply on port
 
 
 enjoy :)
+ by saraswat-system-server
