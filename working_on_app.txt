@@ -1,3 +1,8 @@
+welcome to saraswat-system-server
+
+to configure ESP8266 in your phone
+
+
 first of all you m ust have to download blynk ( legacy ) app your phone 
 then sign up with your e-mail id
 select nodemcu / ESP8266 board and select wifi as configuration 
@@ -15,4 +20,6 @@ in this option      char auth[] = "XXXX-XXXX-XXXX-XXXX-XXXX-XXXX-XXXX-XXXX-XXXX-
 
 and your phone and nodemcu ESP8266 will connected to same device with internet.
 
-Enjoy       : )     :)             
+Enjoy       : )     :)     
+
+ by saraswat-system-server
